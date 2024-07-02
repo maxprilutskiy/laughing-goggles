@@ -43,7 +43,7 @@ export default function Page() {
     <div className="flex flex-col items-center justify-center min-h-screen bg-background text-foreground">
       <div className="max-w-3xl w-full px-4 py-8 sm:px-6 lg:px-8">
         <div className="text-center">
-          <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">i18n File Generator</h1>
+          <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">New i18n File Generator</h1>
           <p className="mt-3 text-lg text-muted-foreground">Easily create localization files</p>
         </div>
         <div className="mt-10 space-y-4">
